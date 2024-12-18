@@ -1,0 +1,8 @@
+C:\munka\OrvosiNobeldijasok\bin\Debug\OrvosiNobeldijasok.exe.config
+C:\munka\OrvosiNobeldijasok\bin\Debug\OrvosiNobeldijasok.exe
+C:\munka\OrvosiNobeldijasok\bin\Debug\OrvosiNobeldijasok.pdb
+C:\munka\OrvosiNobeldijasok\obj\Debug\OrvosiNobeldijasok.csproj.AssemblyReference.cache
+C:\munka\OrvosiNobeldijasok\obj\Debug\OrvosiNobeldijasok.csproj.SuggestedBindingRedirects.cache
+C:\munka\OrvosiNobeldijasok\obj\Debug\OrvosiNobeldijasok.csproj.CoreCompileInputs.cache
+C:\munka\OrvosiNobeldijasok\obj\Debug\OrvosiNobeldijasok.exe
+C:\munka\OrvosiNobeldijasok\obj\Debug\OrvosiNobeldijasok.pdb

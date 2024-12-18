@@ -1,0 +1,11 @@
+C:\munka\OrvosiNobeldijasokGUI\bin\Debug\OrvosiNobeldijasokGUI.exe.config
+C:\munka\OrvosiNobeldijasokGUI\bin\Debug\OrvosiNobeldijasokGUI.exe
+C:\munka\OrvosiNobeldijasokGUI\bin\Debug\OrvosiNobeldijasokGUI.pdb
+C:\munka\OrvosiNobeldijasokGUI\obj\Debug\OrvosiNobeldijasokGUI.csproj.AssemblyReference.cache
+C:\munka\OrvosiNobeldijasokGUI\obj\Debug\OrvosiNobeldijasokGUI.csproj.SuggestedBindingRedirects.cache
+C:\munka\OrvosiNobeldijasokGUI\obj\Debug\OrvosiNobeldijasokGUI.Form1.resources
+C:\munka\OrvosiNobeldijasokGUI\obj\Debug\OrvosiNobeldijasokGUI.Properties.Resources.resources
+C:\munka\OrvosiNobeldijasokGUI\obj\Debug\OrvosiNobeldijasokGUI.csproj.GenerateResource.cache
+C:\munka\OrvosiNobeldijasokGUI\obj\Debug\OrvosiNobeldijasokGUI.csproj.CoreCompileInputs.cache
+C:\munka\OrvosiNobeldijasokGUI\obj\Debug\OrvosiNobeldijasokGUI.exe
+C:\munka\OrvosiNobeldijasokGUI\obj\Debug\OrvosiNobeldijasokGUI.pdb
